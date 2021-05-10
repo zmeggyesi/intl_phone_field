@@ -1,3 +1,16 @@
+## [1.4.2] - Improved Documentation.
+
+- Color change for Dropdown Icon and Dialog is now added.
+
+## [1.4.1] - Improved Documentation.
+
+- More Documentation added for properties.
+
+## [1.4.0] - Bug Fixes and improvements.
+
+- Searchbar label text can be now set.
+- Picker popup bug fixed.
+
 ## [1.3.0] - Added more parameters
 
 - Initial Value can now be set.

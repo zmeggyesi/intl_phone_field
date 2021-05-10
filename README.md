@@ -16,7 +16,7 @@ Add the following to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  intl_phone_field: ^1.3.0
+  intl_phone_field: ^1.4.2
 ```
 
 ## How to Use
@@ -52,4 +52,4 @@ Please make sure to update tests as appropriate.
 
 ## LICENSE
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
